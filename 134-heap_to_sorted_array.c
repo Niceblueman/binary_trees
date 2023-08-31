@@ -16,7 +16,7 @@ int count_h_nodes(binary_tree_t *root)
 }
 
 /**
- * heap_to_sorted_array - this function Create the sorted array from a maximum heap
+ * heap_to_sorted_array - this function Create a sorted array from a max heap
  * @heap: Pointer to heap's node
  * @size: Pointer to arrays size
  *

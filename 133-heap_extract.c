@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * count_heap_nodes - this function Count the number of the nodes inside the tree
+ * count_heap_nodes - Counts the number of nodes inside a tree
  * @root: Pointer to tree's root node
  *
  * Return: Number of tree nodes
